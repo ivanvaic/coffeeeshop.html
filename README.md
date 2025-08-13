@@ -1,2 +1,0 @@
-# coffeeeshop.html
-coffeeeshop.html
